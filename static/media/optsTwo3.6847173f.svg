@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>advanced-pinning-wireframe-tool</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLICES" transform="translate(-100.817360, -148.000000)"></g>
+        <g id="Advanced-Pining" transform="translate(1.501302, 2.355225)">
+            <rect id="Rectangle" stroke="#121212" stroke-width="2" x="4.50864946" y="4.61791992" width="28.5" height="26.5" rx="4"></rect>
+            <circle id="Oval" stroke="#121212" stroke-width="1.5" fill="#FFFFFF" cx="19.061084" cy="4.7" r="3.95"></circle>
+            <circle id="Oval-Copy-2" stroke="#121212" stroke-width="1.5" fill="#FFFFFF" cx="32.9996163" cy="17.2745186" r="3.95"></circle>
+            <circle id="Oval-Copy" fill="#121212" cx="18.7586495" cy="31.0982491" r="4.39756548"></circle>
+            <circle id="Oval-Copy" fill="#121212" transform="translate(4.397565, 17.274519) rotate(-270.000000) translate(-4.397565, -17.274519) " cx="4.39756548" cy="17.2745186" r="4.39756548"></circle>
+        </g>
+    </g>
+</svg>

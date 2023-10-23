@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>templates</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLICES" transform="translate(-370.817360, 0.000000)"></g>
+        <g id="Templates" transform="translate(1.488779, 3.017090)" stroke="#121212" stroke-width="2">
+            <g id="Developers-handoff-OLD-Copy">
+                <rect id="Rectangle" x="1" y="1" width="35.5" height="32.0571289" rx="4"></rect>
+            </g>
+            <line x1="0.506233536" y1="9.45003521" x2="36.1251884" y2="9.45003521" id="Rectangle-Copy-2"></line>
+            <line x1="12.4637743" y1="21.1171875" x2="36.1251884" y2="21.1171875" id="Rectangle-Copy-5"></line>
+            <line x1="12.6542969" y1="10.1474609" x2="12.6542969" y2="34.0571289" id="Rectangle-Copy-2"></line>
+        </g>
+    </g>
+</svg>
